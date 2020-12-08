@@ -5,4 +5,7 @@
 //  Created by Justin on 2020/12/8.
 //
 
-import Foundation
+struct Workout {
+    var name: String
+    var exercises: [Exercise]
+}
